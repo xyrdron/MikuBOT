@@ -1,4 +1,5 @@
 # Skylar: Your anime companion!
-hi readme coming soon bye
+This version of Skylar is being archived as a prototype as Skylar will become a closed source bot API in the future as we prepare to work on a full release to Discord.
+Thank you for your testing feedback and support (esp u intbar hehe)
 
-> Project Skylar v3 by Xyrdron Pty Ltd
+> SkylarApp by Xyrdron
